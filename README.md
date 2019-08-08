@@ -5,3 +5,5 @@ The curl extension of php can be used to open remote webpages by both GET and PO
 The following class enables successful login to a remote site with a username and password, which are protected variables in the class. In this case stop cURL from verifying the peer's certificate, and the connection is made to https protocol. 
 
 For cURL additional options or a description of each option can be found on the curl_setopt link on the official php website.
+
+Visit on page: https://dev-all.eu/blog/login-with-curl-php-on-remote-website
